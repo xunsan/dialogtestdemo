@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hello2.hello2">
+
+    <application>
+        <activity android:name=".DialogLikeActivity"
+            android:theme="@style/ActivityDialogTheme"></activity>
+    </application>
+
+</manifest>
